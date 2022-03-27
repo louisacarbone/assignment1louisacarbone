@@ -24,7 +24,7 @@ A description of the functionality of the app:
 The Application would be available on all platforms. This would include a website, an app for both
 Apple™ and Android making the app easily accessible for anyone on any device. The Interface
 colour palette would match that of the current PTV app; being grey, white and red. However,
-would feature a more modernised and simplicist user interface that appeals to Jakob Nielsen’s 10
+would feature a more modernised and simplistic user interface that appeals to Jakob Nielsen’s 10
 Heuristics. This would ensure both new and experienced users can easily pickup how to use the
 app for easy functionality and ease of use.
 The major features of the application would include:
